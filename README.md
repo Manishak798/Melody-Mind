@@ -1,4 +1,4 @@
-## 🎶 MelodyMind 🧠
+## MelodyMind 🧠🎶
 Predicting User Behavior & Crafting Perfect Playlists
 
 Welcome to MelodyMind, your ultimate machine learning solution for predicting user behavior and delivering personalized song recommendations on music streaming platforms! 🎧✨
